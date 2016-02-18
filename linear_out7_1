@@ -1,0 +1,24 @@
+/usr/local/lib/python2.7/dist-packages/matplotlib/collections.py:590: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if self._edgecolors == str('face'):
+     pcost       dcost       gap    pres   dres
+ 0: -4.6390e+02 -1.2865e+03  1e+04  1e+02  3e+00
+ 1: -7.9153e+02 -1.7783e+03  1e+04  8e+01  2e+00
+ 2: -1.6631e+03 -3.0792e+03  1e+04  7e+01  2e+00
+ 3: -2.9891e+03 -4.9973e+03  1e+04  6e+01  2e+00
+ 4: -7.7342e+03 -1.1827e+04  1e+04  6e+01  2e+00
+ 5: -1.2828e+04 -1.9077e+04  1e+04  5e+01  1e+00
+ 6: -4.9590e+04 -6.2555e+04  1e+04  5e+01  1e+00
+ 7: -1.8917e+05 -2.1199e+05  2e+04  4e+01  1e+00
+ 8: -9.7403e+05 -1.0396e+06  7e+04  4e+01  1e+00
+ 9: -1.1903e+07 -1.2138e+07  2e+05  4e+01  1e+00
+10: -3.5712e+08 -3.6012e+08  3e+06  4e+01  1e+00
+11: -4.3176e+08 -4.3535e+08  4e+06  4e+01  1e+00
+12: -6.3911e+08 -6.4440e+08  5e+06  4e+01  1e+00
+13: -9.8017e+08 -9.8815e+08  8e+06  4e+01  1e+00
+14: -1.3363e+09 -1.3456e+09  9e+06  4e+01  1e+00
+15: -1.5587e+09 -1.5682e+09  1e+07  4e+01  1e+00
+16: -1.7865e+09 -1.7967e+09  1e+07  4e+01  1e+00
+17: -1.8770e+09 -1.8871e+09  1e+07  4e+01  1e+00
+Terminated (singular KKT matrix).
+2498 support vectors out of 2498 points
+1124 out of 1249 predictions correct
