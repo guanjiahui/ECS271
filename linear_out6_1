@@ -1,0 +1,28 @@
+/usr/local/lib/python2.7/dist-packages/matplotlib/collections.py:590: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if self._edgecolors == str('face'):
+     pcost       dcost       gap    pres   dres
+ 0: -2.7022e+02 -6.4722e+02  1e+04  1e+02  2e+00
+ 1: -4.3883e+02 -6.7446e+02  9e+03  7e+01  2e+00
+ 2: -6.1808e+02 -7.7531e+02  9e+03  6e+01  1e+00
+ 3: -8.4579e+02 -6.5988e+02  7e+03  4e+01  8e-01
+ 4: -9.3374e+02 -5.4535e+02  6e+03  3e+01  6e-01
+ 5: -8.1555e+02 -3.4393e+02  5e+03  2e+01  4e-01
+ 6: -3.8950e+02 -4.9982e+01  2e+03  6e+00  1e-01
+ 7: -2.6342e+01 -2.4032e-01  1e+02  4e-01  9e-03
+ 8: -4.2051e-01 -1.5602e-02  2e+00  6e-03  1e-04
+ 9: -1.3436e-01 -1.4691e-02  7e-01  2e-03  5e-05
+10: -7.2005e-02 -1.3431e-02  6e-01  2e-03  3e-05
+11: -2.6691e-02 -1.1663e-02  3e-01  7e-04  1e-05
+12: -5.6993e-03 -1.0502e-02  7e-02  2e-04  4e-06
+13: -2.5773e-03 -1.0255e-02  4e-02  7e-05  2e-06
+14: -3.2533e-03 -9.7741e-03  1e-02  9e-06  2e-07
+15: -4.1017e-03 -9.7396e-03  8e-03  7e-06  1e-07
+16: -7.4748e-03 -9.2058e-03  2e-03  1e-06  3e-08
+17: -8.2929e-03 -9.0598e-03  9e-04  5e-07  1e-08
+18: -8.6907e-03 -8.9918e-03  3e-04  7e-08  1e-09
+19: -8.9115e-03 -8.9769e-03  7e-05  2e-17  3e-13
+20: -8.9755e-03 -8.9763e-03  8e-07  3e-17  3e-13
+21: -8.9763e-03 -8.9763e-03  8e-09  1e-18  3e-13
+Optimal solution found.
+13 support vectors out of 2498 points
+1241 out of 1249 predictions correct
